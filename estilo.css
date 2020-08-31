@@ -1,0 +1,23 @@
+#tit{ display: inline;
+font-size: 20px;
+position: absolute;
+margin-top: 40px;
+margin-left: 300px;
+}
+#im2{
+ padding-left: 1100px;   
+}
+#box{
+ padding:5px 5px 5px 5px;
+margin: 20px 20px 20px 20px;
+}
+p{
+font-size:20px    
+}
+#ods {
+ margin-left: 250px;   
+}
+@-ms-viewport{
+    width: extend-to-zoom;
+    zoom: 1.0;
+}
